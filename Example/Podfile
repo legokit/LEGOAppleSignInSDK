@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LEGOAppleSignInSDK_Example' do
+  pod 'LEGOAppleSignInSDK', :path => '../'
+  pod 'Masonry'
+  target 'LEGOAppleSignInSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

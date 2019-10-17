@@ -1,0 +1,6 @@
+framework module LEGOAppleSignInSDK {
+  umbrella header "LEGOAppleSignInSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - LEGOAppleSignInSDK (0.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - LEGOAppleSignInSDK (from `../`)
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  LEGOAppleSignInSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LEGOAppleSignInSDK: fc4b58cee6f7362bdde9732cb9441b7b21ddd1fb
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 1601d8717eb25eb2a4f076b769f98ddb2fa5b6a8
+
+COCOAPODS: 1.7.4

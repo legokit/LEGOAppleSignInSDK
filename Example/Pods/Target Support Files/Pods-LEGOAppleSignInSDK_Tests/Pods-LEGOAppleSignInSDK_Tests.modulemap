@@ -1,0 +1,6 @@
+framework module Pods_LEGOAppleSignInSDK_Tests {
+  umbrella header "Pods-LEGOAppleSignInSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
