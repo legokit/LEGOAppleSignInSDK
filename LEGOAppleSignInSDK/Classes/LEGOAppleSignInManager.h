@@ -10,7 +10,7 @@
 #import "LEGOAppleUserInfo.h"
 
 NS_ASSUME_NONNULL_BEGIN
-NSString *const kAppleSignInUserIdentity;
+UIKIT_EXTERN NSString *const kAppleSignInUserIdentity;
 
 typedef void(^LEGOAppleSignInSuccess)(LEGOAppleUserInfo *info);
 typedef void(^LEGOAppleSignInFail)(NSError *error);

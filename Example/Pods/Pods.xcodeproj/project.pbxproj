@@ -81,7 +81,7 @@
 /* Begin PBXFileReference section */
 		002BF3DDD89C177475702379D618BDA2 /* Masonry.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.xcconfig; sourceTree = "<group>"; };
 		025EB543E67AF6218FBFEFBEC406E598 /* Masonry-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Masonry-Info.plist"; sourceTree = "<group>"; };
-		040BF3C62462FB2C93560B074F91EFF9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		040BF3C62462FB2C93560B074F91EFF9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		071ABA9DA4A53122DD0382E7C7F6CBEB /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ViewController+MASAdditions.m"; path = "Masonry/ViewController+MASAdditions.m"; sourceTree = "<group>"; };
 		0F5718E89E4E5165AA49B980D89CBCF8 /* MASViewAttribute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewAttribute.h; path = Masonry/MASViewAttribute.h; sourceTree = "<group>"; };
 		103D2AF9825A340B606865E25105E859 /* LEGOAppleSignInSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LEGOAppleSignInSDK-dummy.m"; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		130F3B92BAB28630295F57E8AAC12EA1 /* MASConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraint.h; path = Masonry/MASConstraint.h; sourceTree = "<group>"; };
 		1E780607D798BC01DDE3031621C51501 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		1F1BF5683BFFCF57BA0C385B36CC0BE2 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
-		1FFED36A657123030ABB700256D73F15 /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FFED36A657123030ABB700256D73F15 /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Masonry.framework; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2018F30ACEBE5D767F7469F7D35944E5 /* Pods-LEGOAppleSignInSDK_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LEGOAppleSignInSDK_Tests-Info.plist"; sourceTree = "<group>"; };
 		25A6699CE583B52494F89B1BF1A695D8 /* Pods-LEGOAppleSignInSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LEGOAppleSignInSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		29F49964B5DA775DCE1BE0415FF802BC /* Pods-LEGOAppleSignInSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LEGOAppleSignInSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -98,19 +98,19 @@
 		36D9333B00F315696855ADE85C3E6D15 /* MASConstraintMaker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraintMaker.m; path = Masonry/MASConstraintMaker.m; sourceTree = "<group>"; };
 		3774689E99D4524CCA04AE353A75F940 /* Pods-LEGOAppleSignInSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LEGOAppleSignInSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
 		383B28960BCBA2824108E5F60B065CC1 /* Pods-LEGOAppleSignInSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LEGOAppleSignInSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		3B41FF2FD73AF9E343BE195A1939FEDE /* LEGOAppleSignInSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LEGOAppleSignInSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3B41FF2FD73AF9E343BE195A1939FEDE /* LEGOAppleSignInSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LEGOAppleSignInSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3BCF93F338546FCB058B68A5B6F26B32 /* MASConstraintMaker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraintMaker.h; path = Masonry/MASConstraintMaker.h; sourceTree = "<group>"; };
 		411FAA5B322E6BB04C0849F9D18D4F34 /* LEGOAppleSignInSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LEGOAppleSignInSDK-umbrella.h"; sourceTree = "<group>"; };
 		41CB04374736E105E296EF77DA73E253 /* Pods-LEGOAppleSignInSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LEGOAppleSignInSDK_Tests.modulemap"; sourceTree = "<group>"; };
 		436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		4ADA96CC247B0B3C74C3EF93312FD4CE /* LEGOAppleSignInSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LEGOAppleSignInSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4ADA96CC247B0B3C74C3EF93312FD4CE /* LEGOAppleSignInSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LEGOAppleSignInSDK.framework; path = LEGOAppleSignInSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AE67E578D946916619989B59F6D739A /* Pods-LEGOAppleSignInSDK_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LEGOAppleSignInSDK_Example.modulemap"; sourceTree = "<group>"; };
 		4E5709CED54C3B8DC4B50B19520F6771 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
 		54DE92D801040B2ACBAC3641549281C2 /* Pods-LEGOAppleSignInSDK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LEGOAppleSignInSDK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		59E39FD145458E2B9EC844B90273C4FE /* Pods-LEGOAppleSignInSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LEGOAppleSignInSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
 		5CA44084D307AD4CE083AB0809A7232F /* Pods-LEGOAppleSignInSDK_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LEGOAppleSignInSDK_Example-Info.plist"; sourceTree = "<group>"; };
 		5D55C6718BBEDD1E0E9194901783A32F /* LEGOKeychainTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LEGOKeychainTool.h; path = LEGOAppleSignInSDK/Classes/LEGOKeychainTool.h; sourceTree = "<group>"; };
-		5E1C114EE1CC6FAB1DC528505F3B6739 /* Pods_LEGOAppleSignInSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LEGOAppleSignInSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E1C114EE1CC6FAB1DC528505F3B6739 /* Pods_LEGOAppleSignInSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LEGOAppleSignInSDK_Example.framework; path = "Pods-LEGOAppleSignInSDK_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FADB5EBFADA2A419371CF5E6C927F1E /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
 		62890C896C598E9650B511A4A9BA249A /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
 		6CA1743D4C2398AECEBA2C0CF49FB65F /* Pods-LEGOAppleSignInSDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LEGOAppleSignInSDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -119,17 +119,17 @@
 		870570EFE09B8657023DC7C42C33BE4B /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Masonry.modulemap; sourceTree = "<group>"; };
 		896A4BCB5B3DBC78E1CF6EBF5AC2862F /* View+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASAdditions.h"; path = "Masonry/View+MASAdditions.h"; sourceTree = "<group>"; };
 		8D4CA7B92265A15B80B1666634FF46C0 /* Masonry-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-umbrella.h"; sourceTree = "<group>"; };
-		971E3C4AB97D5364F177576D17DBFA5F /* Pods_LEGOAppleSignInSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LEGOAppleSignInSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		971E3C4AB97D5364F177576D17DBFA5F /* Pods_LEGOAppleSignInSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LEGOAppleSignInSDK_Tests.framework; path = "Pods-LEGOAppleSignInSDK_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B3EA3B1B55EA3798EBFF42DBF0AA25B /* LEGOAppleUserInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LEGOAppleUserInfo.m; path = LEGOAppleSignInSDK/Classes/LEGOAppleUserInfo.m; sourceTree = "<group>"; };
 		9C783239D12541FA278CBEBA15780CE4 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		9CD1AD2192C246BE568B6CFBA7EB9C68 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A17EAC4713F6B85A6124DB11F111B072 /* MASViewConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewConstraint.m; path = Masonry/MASViewConstraint.m; sourceTree = "<group>"; };
 		A50B2402DC064CB8DB71EDD6A8BF31E4 /* LEGOAppleSignInSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LEGOAppleSignInSDK-Info.plist"; sourceTree = "<group>"; };
 		AB6B1CD2FD2F645FB9510D39F4A0C0B2 /* Pods-LEGOAppleSignInSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LEGOAppleSignInSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		ACB7B80D58CFA003C25B538A405A341D /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
 		B00478967D4788A19A19192403D62CD8 /* Pods-LEGOAppleSignInSDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LEGOAppleSignInSDK_Example-dummy.m"; sourceTree = "<group>"; };
-		B0338CD5DC9EAD578A258769102DD2F3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B0338CD5DC9EAD578A258769102DD2F3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		B377289AFAE7DF9945B981F14B4AF95C /* MASCompositeConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASCompositeConstraint.m; path = Masonry/MASCompositeConstraint.m; sourceTree = "<group>"; };
 		B42C51A10B6E9C0F0361C2BCB1944A14 /* Pods-LEGOAppleSignInSDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LEGOAppleSignInSDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B47E0CCE07C313DF7CE5A32C063379DF /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
@@ -216,9 +216,9 @@
 		54AAF646B720F9DDEA9AE57086B5D8C4 /* LEGOAppleSignInSDK */ = {
 			isa = PBXGroup;
 			children = (
-				F9585B94400A21AEA975CFB28BB2F5EA /* LEGOAppleSignInSDK.h */,
 				CA1D0F8D92A9511A60B2C17B6501BB63 /* LEGOAppleSignInManager.h */,
 				7EC26D64E91E848A6B11BE1561CD05FB /* LEGOAppleSignInManager.m */,
+				F9585B94400A21AEA975CFB28BB2F5EA /* LEGOAppleSignInSDK.h */,
 				DDB74AAAE4AFAE415FF8D6074A6BDC4C /* LEGOAppleUserInfo.h */,
 				9B3EA3B1B55EA3798EBFF42DBF0AA25B /* LEGOAppleUserInfo.m */,
 				5D55C6718BBEDD1E0E9194901783A32F /* LEGOKeychainTool.h */,
@@ -271,6 +271,7 @@
 				071ABA9DA4A53122DD0382E7C7F6CBEB /* ViewController+MASAdditions.m */,
 				BDFB34A12FABD70C59DCE49920774B47 /* Support Files */,
 			);
+			name = Masonry;
 			path = Masonry;
 			sourceTree = "<group>";
 		};
@@ -754,7 +755,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
